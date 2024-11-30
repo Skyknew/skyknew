@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Docker, DevOps**
 
-- 👨‍💻 All of my projects are available at [www.aakashthapa38.com.np](www.aakashthapa38.com.np)
+- 👨‍💻 All of my projects are available at [https://www.aakashthapa38.com.np](https://www.aakashthapa38.com.np)
 
 - 💬 Ask me about **Html, CSS, ReactJs, NextJs**
 
